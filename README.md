@@ -11,7 +11,7 @@
     Histórico de transações
 
 # Como executar
-    Digite no terminal "python main.py"
+    Baixe todos os arquivos. Como todos na mesma pasta, abra o arquivo main.py com sua IDE de preferência, e digite no terminal "python main.py"
 
 # Usuários cadastrados
     É possível acessar os usuários no arquivo "dados_usuarios.py", mas para facilitamento do uso do sistema, segue a lista com os usuários cadastrados, com, respectivamente: Usuário de login, Senha de login, Senha do cartão, e-mail, n° de telefone e CPF):
